@@ -8,8 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shkc0328/example.git"
+    "url": "git+https://github.com/shkc0328/example.git"
   },
   "author": "Eric Kwon",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shkc0328/example/issues"
+  },
+  "homepage": "https://github.com/shkc0328/example#readme"
 }
